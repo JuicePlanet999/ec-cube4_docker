@@ -493,6 +493,10 @@ MySQL5.7:
 	ln -s DockerCompose/docker-compose.yml-mysql57 docker-compose.yml
 	@echo "\n\n\nMySQL5.7 Setup Complete!!!\n\n\n"
 
+MySQL5.7_fix:
+	ln -s DockerCompose/docker-compose.yml-mysql57_fix docker-compose.yml
+	@echo "\n\n\nMySQL5.7_fix Setup Complete!!!\n\n\n"
+
 PostgreSQL14:
 	ln -s DockerCompose/docker-compose.yml-postgres14 docker-compose.yml
 	@echo "\n\n\nPostgreSQL14 Setup Complete!!!\n\n\n"
