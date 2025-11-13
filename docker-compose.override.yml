@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  app:
+    volumes:
+      # vendor ディレクトリを名前付きボリュームに変更
+      - eccube_vendor:/var/www/eccube/vendor
+
+volumes:
+  # vendor 用のボリュームを定義
+  eccube_vendor:
