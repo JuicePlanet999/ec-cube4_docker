@@ -222,8 +222,114 @@ EC-CUBE4.1.0:
 	rm eccube-4.1.0.tar.gz
 	@echo "\n\n\nEC-CUBE4.1.0 Download Complete!!!\n\n\n"
 
+EC-CUBE4.1-beta3:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.1-beta3/eccube-4.1-beta3.tar.gz
+	tar -zxvf eccube-4.1-beta3.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.1-beta3.tar.gz
+	@echo "\n\n\nEC-CUBE4.1-beta3 Download Complete!!!\n\n\n"
+
+EC-CUBE4.1-RC:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.1-rc/eccube-4.1-rc.tar.gz
+	tar -zxvf eccube-4.1-rc.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.1-rc.tar.gz
+	@echo "\n\n\nEC-CUBE4.1-RC Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-alpha:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-alpha/eccube-4.2.0-alpha.tar.gz
+	tar -zxvf eccube-4.2.0-alpha.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-alpha.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-alpha Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta/eccube-4.2.0-beta.tar.gz
+	tar -zxvf eccube-4.2.0-beta.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta-0802:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta-20220802/eccube-4.2.0-beta-20220802.tar.gz
+	tar -zxvf eccube-4.2.0-beta-20220802.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta-20220802.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta-0802 Download Complete!!!\n\n\n"
+	
+EC-CUBE4.2.0-beta2-0810:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220810/eccube-4.2.0-beta2-20220810.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220810.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220810.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0810 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta2-0825:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220825/eccube-4.2.0-beta2-20220825.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220825.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220825.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0825 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta2-0826:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220826/eccube-4.2.0-beta2-20220826.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220826.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220826.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0826 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta2-0829:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220829/eccube-4.2.0-beta2-20220829.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220829.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220829.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0829 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta2-0905:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220905/eccube-4.2.0-beta2-20220905.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220905.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220905.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0905 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-beta2-0916:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220916/eccube-4.2.0-beta2-20220916.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220916.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220916.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0916 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.0-RC:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.0-beta2-20220810/eccube-4.2.0-beta2-20220810.tar.gz
+	tar -zxvf eccube-4.2.0-beta2-20220810.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.0-beta2-20220810.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.0-beta2-0810 Download Complete!!!\n\n\n"
+
+EC-CUBE4.2.1-20230116:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.1-20230116/eccube-4.2.1-20230116.tar.gz
+	tar -zxvf eccube-4.2.1-20230116.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2.1-20230116.tar.gz
+	@echo "\n\n\nEC-CUBE4.2.1-20230116 Download Complete!!!\n\n\n"	
+
+EC-CUBE4.3.0-beta:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.3.0-beta/eccube-4.3.0-beta.tar.gz
+	tar -zxvf eccube-4.3.0-beta.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.3.0-beta.tar.gz
+	@echo "\n\n\nEC-CUBE4.3.0-beta Download Complete!!!\n\n\n"
+
+EC-CUBEco/4.2-20230608:
+	curl -vOL https://github.com/EC-CUBE/ec-cube/archive/refs/tags/co/4.2-20230608.tar.gz
+	tar -zxvf co-4.2-20230608.tar.gz
+	mv ec-cube eccube
+	rm eccube-4.2-20230608.tar.gz
+	@echo "\n\n\nEC-CUBco/4.2-20230608 Download Complete!!!\n\n\n"
+
+
 EC-CUBE4.1.0-latest:
-	curl -vOL https://downloads.ec-cube.net/src/eccube-4.1.0.tar.gz
+	curl -vOL https://github.com/EC-CUBE/ec-cube/releases/download/4.2.1-20230116/eccube-4.2.1-20230116.tar.gz
 	tar -zxvf eccube-4.1.0.tar.gz
 	mv ec-cube eccube
 	rm eccube-4.1.0.tar.gz
